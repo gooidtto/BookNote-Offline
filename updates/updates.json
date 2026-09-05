@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "booknote-offline@local": {
+      "updates": [
+        {
+          "version": "7.10.40",
+          "update_link": "https://github.com/gooidtto/BookNote-Offline/releases/download/v7.10.40/BookNote-Offline-v7.10.40.xpi"
+        }
+      ]
+    }
+  }
+}
